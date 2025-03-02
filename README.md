@@ -1,8 +1,8 @@
-# University-Management-System
+# College-Management-System
 
 ### Description
 
-This is a simple Python-based University Management System that allows users to:
+This is a simple Python-based College Management System that allows users to:
 
 - Create colleges
 - Add teachers and students to a specific college
